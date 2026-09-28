@@ -22,12 +22,7 @@
 ### 4.4 Problem 4: Comparing the Species Using ANOVA
 
 
-## 5. Software & Libraries
-
- - How to Run the Analysis
- 
-
-## 6. References
+## 5. References
 
 
 
