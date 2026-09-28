@@ -2,9 +2,14 @@
 
 ## 1. Project Overview
 
+
 ## 2. File Structure
 
-## 3. Objectives
+
+## 3. Running the Notebook
+
+### 3.1 Dependencies
+
 
 ## 4. Problems
 
@@ -16,9 +21,11 @@
 
 ### 4.4 Problem 4: Comparing the Species Using ANOVA
 
+
 ## 5. Software & Libraries
 
  - How to Run the Analysis
+ 
 
 ## 6. References
 
